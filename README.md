@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello!
+Hi, I am Komepiri.<br>
+My hobbies include developing Discord Bots and web services.
+
+## contact
+Discord:komepiri8955
+Twitter(Old X):@komepiri1234
+
 
 <!--
 **komepiri/komepiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
