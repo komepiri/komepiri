@@ -3,7 +3,7 @@ Hi, I am Komepiri.<br>
 My hobbies include developing Discord Bots and web services.
 
 ## contact
-Discord:komepiri8955
+Discord:komepiri8955<br>
 Twitter(Old X):@komepiri1234
 
 
