@@ -2,7 +2,7 @@
 Hi, I am Komepiri.<br>
 My hobbies include developing Discord Bots and web services.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/980235139902750730?showDisplayName=true)](https://discord.com/users/980235139902750730)
 
 ## contact
 Discord:komepiri8955<br>
