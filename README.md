@@ -1,6 +1,8 @@
 ## Hello!
 Hi, I am Komepiri.<br>
-My hobbies include developing Discord Bots and web services.
+I occasionally work on web app development and create Discord bots.
+Lately, I’ve been hooked on Apex Legends, so I haven’t been doing much development.
+My highest rank so far is Diamond 4.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/980235139902750730?showDisplayName=true)](https://discord.com/users/980235139902750730)
 
