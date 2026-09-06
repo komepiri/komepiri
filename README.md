@@ -1,15 +1,13 @@
 ## Hello!
 Hi, I am Komepiri.<br>
-I occasionally work on web app development and create Discord bots.<br>
-Lately, I’ve been hooked on Apex Legends, so I haven’t been doing much development.<br>
-My highest rank so far is Diamond 4.<br>
+I occasionally develop web applications or create Discord bots.
 
+## Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/980235139902750730?showDisplayName=true)](https://discord.com/users/980235139902750730)
 
 ## contact
-Discord:komepiri8955<br>
-Twitter(Old X):@komepiri1234
-
+Twitter (formerly X):https://x.com/komepiri1234
+Discord: komepiri8955
 
 <!--
 **komepiri/komepiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
