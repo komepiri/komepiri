@@ -6,7 +6,7 @@ I occasionally develop web applications or create Discord bots.
 [![Discord Presence](https://lanyard.cnrad.dev/api/980235139902750730?showDisplayName=true)](https://discord.com/users/980235139902750730)
 
 ## contact
-Twitter (formerly X):https://x.com/komepiri1234
+Twitter (formerly X):https://x.com/komepiri1234 <br>
 Discord: komepiri8955
 
 <!--
